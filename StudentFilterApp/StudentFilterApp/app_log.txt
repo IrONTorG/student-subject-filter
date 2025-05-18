@@ -1,0 +1,378 @@
+[2025-05-07 01:21:42] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:21:42] [INFO] Read line 1: Иванов - биология
+[2025-05-07 01:21:42] [INFO] Read line 2: Петров - химия
+[2025-05-07 01:21:42] [INFO] Read line 3: Сидоров - биология
+[2025-05-07 01:21:42] [INFO] Read line 4: Кузнецов - химия
+[2025-05-07 01:21:42] [INFO] Read line 5: Смирнов - физика
+[2025-05-07 01:21:42] [INFO] Total subjects loaded: 3
+[2025-05-07 01:21:58] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:21:58] [INFO] Read line 1: Иванов - биология
+[2025-05-07 01:21:58] [INFO] Read line 2: Петров - химия
+[2025-05-07 01:21:58] [INFO] Read line 3: Сидоров - биология
+[2025-05-07 01:21:58] [INFO] Read line 4: Кузнецов - химия
+[2025-05-07 01:21:58] [INFO] Read line 5: Смирнов - физика
+[2025-05-07 01:21:58] [INFO] Total subjects loaded: 3
+[2025-05-07 01:21:59] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:21:59] [INFO] Read line 1: Иванов - биология
+[2025-05-07 01:21:59] [INFO] Read line 2: Петров - химия
+[2025-05-07 01:21:59] [INFO] Read line 3: Сидоров - биология
+[2025-05-07 01:21:59] [INFO] Read line 4: Кузнецов - химия
+[2025-05-07 01:21:59] [INFO] Read line 5: Смирнов - физика
+[2025-05-07 01:21:59] [INFO] Total subjects loaded: 3
+[2025-05-07 01:22:00] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:22:00] [INFO] Read line 1: Иванов - биология
+[2025-05-07 01:22:00] [INFO] Read line 2: Петров - химия
+[2025-05-07 01:22:00] [INFO] Read line 3: Сидоров - биология
+[2025-05-07 01:22:00] [INFO] Read line 4: Кузнецов - химия
+[2025-05-07 01:22:00] [INFO] Read line 5: Смирнов - физика
+[2025-05-07 01:22:00] [INFO] Total subjects loaded: 3
+[2025-05-07 01:22:12] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:22:12] [INFO] Read line 1: Иванов - биология
+[2025-05-07 01:22:12] [INFO] Read line 2: Петров - химия
+[2025-05-07 01:22:12] [INFO] Read line 3: Сидоров - биология
+[2025-05-07 01:22:12] [INFO] Read line 4: Кузнецов - химия
+[2025-05-07 01:22:12] [INFO] Read line 5: Смирнов - физика
+[2025-05-07 01:22:12] [INFO] Total subjects loaded: 3
+[2025-05-07 01:22:15] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:22:15] [INFO] Read line 1: Иванов - биология
+[2025-05-07 01:22:15] [INFO] Read line 2: Петров - химия
+[2025-05-07 01:22:15] [INFO] Read line 3: Сидоров - биология
+[2025-05-07 01:22:15] [INFO] Read line 4: Кузнецов - химия
+[2025-05-07 01:22:15] [INFO] Read line 5: Смирнов - физика
+[2025-05-07 01:22:15] [INFO] Total subjects loaded: 3
+[2025-05-07 01:32:35] [INFO] === Starting filter operation ===
+[2025-05-07 01:32:35] [INFO] Loading data from: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:32:35] [INFO] Calling FilterStudents...
+[2025-05-07 01:32:35] [INFO] === Starting filtering ===
+[2025-05-07 01:32:35] [INFO] Include subjects: биология, химия
+[2025-05-07 01:32:35] [INFO] Exclude subjects: физика
+[2025-05-07 01:32:35] [INFO] Current data contents:
+[2025-05-07 01:32:35] [INFO] Subject: биология, Students: 2
+[2025-05-07 01:32:35] [INFO] Subject: химия, Students: 2
+[2025-05-07 01:32:35] [INFO] Subject: физика, Students: 1
+[2025-05-07 01:32:35] [INFO] Processing include subjects...
+[2025-05-07 01:32:35] [INFO] Initial set from биология: 2 students
+[2025-05-07 01:32:35] [INFO] Processing subject: химия
+[2025-05-07 01:32:35] [INFO] Intersection with химия: 0 students left
+[2025-05-07 01:32:35] [INFO] Processing exclude subjects...
+[2025-05-07 01:32:35] [INFO] Excluding subject: физика
+[2025-05-07 01:32:35] [INFO] After excluding физика: 0 students left
+[2025-05-07 01:32:35] [INFO] === Filtering complete ===
+[2025-05-07 01:32:35] [INFO] Final result count: 0
+[2025-05-07 01:32:35] [INFO] FilterStudents returned 0 students
+[2025-05-07 01:32:35] [INFO] Displaying results in list box...
+[2025-05-07 01:32:35] [INFO] No students found matching criteria
+[2025-05-07 01:32:35] [INFO] Saving results to: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\FilteredStudents.txt
+[2025-05-07 01:32:35] [INFO] Filter operation complete. Найдено студентов: 0
+[2025-05-07 01:33:13] [INFO] === Starting filter operation ===
+[2025-05-07 01:33:13] [INFO] Loading data from: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:33:13] [INFO] Calling FilterStudents...
+[2025-05-07 01:33:13] [INFO] === Starting filtering ===
+[2025-05-07 01:33:13] [INFO] Include subjects: биология, химия
+[2025-05-07 01:33:13] [INFO] Exclude subjects: физика
+[2025-05-07 01:33:13] [INFO] Current data contents:
+[2025-05-07 01:33:13] [INFO] Subject: биология, Students: 2
+[2025-05-07 01:33:13] [INFO] Subject: химия, Students: 2
+[2025-05-07 01:33:13] [INFO] Subject: физика, Students: 1
+[2025-05-07 01:33:13] [INFO] Processing include subjects...
+[2025-05-07 01:33:13] [INFO] Initial set from биология: 2 students
+[2025-05-07 01:33:13] [INFO] Processing subject: химия
+[2025-05-07 01:33:13] [INFO] Intersection with химия: 0 students left
+[2025-05-07 01:33:13] [INFO] Processing exclude subjects...
+[2025-05-07 01:33:13] [INFO] Excluding subject: физика
+[2025-05-07 01:33:13] [INFO] After excluding физика: 0 students left
+[2025-05-07 01:33:13] [INFO] === Filtering complete ===
+[2025-05-07 01:33:13] [INFO] Final result count: 0
+[2025-05-07 01:33:13] [INFO] FilterStudents returned 0 students
+[2025-05-07 01:33:13] [INFO] Displaying results in list box...
+[2025-05-07 01:33:13] [INFO] No students found matching criteria
+[2025-05-07 01:33:13] [INFO] Saving results to: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\FilteredStudents.txt
+[2025-05-07 01:33:13] [INFO] Filter operation complete. Найдено студентов: 0
+[2025-05-07 01:33:19] [INFO] === Starting filter operation ===
+[2025-05-07 01:33:19] [INFO] Loading data from: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:33:19] [INFO] Calling FilterStudents...
+[2025-05-07 01:33:19] [INFO] === Starting filtering ===
+[2025-05-07 01:33:19] [INFO] Include subjects: биология, химия
+[2025-05-07 01:33:19] [INFO] Exclude subjects: физика
+[2025-05-07 01:33:19] [INFO] Current data contents:
+[2025-05-07 01:33:19] [INFO] Subject: биология, Students: 2
+[2025-05-07 01:33:19] [INFO] Subject: химия, Students: 2
+[2025-05-07 01:33:19] [INFO] Subject: физика, Students: 1
+[2025-05-07 01:33:19] [INFO] Processing include subjects...
+[2025-05-07 01:33:19] [INFO] Initial set from биология: 2 students
+[2025-05-07 01:33:19] [INFO] Processing subject: химия
+[2025-05-07 01:33:19] [INFO] Intersection with химия: 0 students left
+[2025-05-07 01:33:19] [INFO] Processing exclude subjects...
+[2025-05-07 01:33:19] [INFO] Excluding subject: физика
+[2025-05-07 01:33:19] [INFO] After excluding физика: 0 students left
+[2025-05-07 01:33:19] [INFO] === Filtering complete ===
+[2025-05-07 01:33:19] [INFO] Final result count: 0
+[2025-05-07 01:33:19] [INFO] FilterStudents returned 0 students
+[2025-05-07 01:33:19] [INFO] Displaying results in list box...
+[2025-05-07 01:33:19] [INFO] No students found matching criteria
+[2025-05-07 01:33:19] [INFO] Saving results to: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\FilteredStudents.txt
+[2025-05-07 01:33:19] [INFO] Filter operation complete. Найдено студентов: 0
+[2025-05-07 01:36:19] [INFO] === Starting filter operation ===
+[2025-05-07 01:36:19] [INFO] Loading data from: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:36:19] [INFO] Calling FilterStudents...
+[2025-05-07 01:36:19] [INFO] === Starting filtering ===
+[2025-05-07 01:36:19] [INFO] Include subjects: биология, химия
+[2025-05-07 01:36:19] [INFO] Exclude subjects: физика
+[2025-05-07 01:36:19] [INFO] Current data contents:
+[2025-05-07 01:36:19] [INFO] Subject: биология, Students: 2
+[2025-05-07 01:36:19] [INFO] Subject: химия, Students: 2
+[2025-05-07 01:36:19] [INFO] Subject: физика, Students: 1
+[2025-05-07 01:36:19] [INFO] Processing include subjects...
+[2025-05-07 01:36:19] [INFO] Initial set from биология: 2 students
+[2025-05-07 01:36:19] [INFO] Processing subject: химия
+[2025-05-07 01:36:19] [INFO] Intersection with химия: 0 students left
+[2025-05-07 01:36:19] [INFO] Processing exclude subjects...
+[2025-05-07 01:36:19] [INFO] Excluding subject: физика
+[2025-05-07 01:36:19] [INFO] After excluding физика: 0 students left
+[2025-05-07 01:36:19] [INFO] === Filtering complete ===
+[2025-05-07 01:36:19] [INFO] Final result count: 0
+[2025-05-07 01:36:19] [INFO] FilterStudents returned 0 students
+[2025-05-07 01:36:19] [INFO] Displaying results in list box...
+[2025-05-07 01:36:19] [INFO] No students found matching criteria
+[2025-05-07 01:36:19] [INFO] Saving results to: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\FilteredStudents.txt
+[2025-05-07 01:36:19] [INFO] Filter operation complete. Найдено студентов: 0
+[2025-05-07 01:36:55] [INFO] === Starting filter operation ===
+[2025-05-07 01:36:55] [INFO] Loading data from: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:36:55] [INFO] Calling FilterStudents...
+[2025-05-07 01:36:55] [INFO] === Starting filtering ===
+[2025-05-07 01:36:55] [INFO] Include subjects: биология, химия
+[2025-05-07 01:36:55] [INFO] Exclude subjects: физика
+[2025-05-07 01:36:55] [INFO] Current data contents:
+[2025-05-07 01:36:55] [INFO] Subject: биология,, Students: 1
+[2025-05-07 01:36:55] [INFO] Subject: химия, Students: 2
+[2025-05-07 01:36:55] [INFO] Subject: биология, Students: 1
+[2025-05-07 01:36:55] [INFO] Subject: физика, Students: 1
+[2025-05-07 01:36:55] [INFO] Processing include subjects...
+[2025-05-07 01:36:55] [INFO] Initial set from биология: 1 students
+[2025-05-07 01:36:55] [INFO] Processing subject: химия
+[2025-05-07 01:36:55] [INFO] Intersection with химия: 0 students left
+[2025-05-07 01:36:55] [INFO] Processing exclude subjects...
+[2025-05-07 01:36:55] [INFO] Excluding subject: физика
+[2025-05-07 01:36:55] [INFO] After excluding физика: 0 students left
+[2025-05-07 01:36:55] [INFO] === Filtering complete ===
+[2025-05-07 01:36:55] [INFO] Final result count: 0
+[2025-05-07 01:36:55] [INFO] FilterStudents returned 0 students
+[2025-05-07 01:36:55] [INFO] Displaying results in list box...
+[2025-05-07 01:36:55] [INFO] No students found matching criteria
+[2025-05-07 01:36:55] [INFO] Saving results to: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\FilteredStudents.txt
+[2025-05-07 01:36:55] [INFO] Filter operation complete. Найдено студентов: 0
+[2025-05-07 01:37:01] [INFO] === Starting filter operation ===
+[2025-05-07 01:37:01] [INFO] Loading data from: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:37:01] [INFO] Calling FilterStudents...
+[2025-05-07 01:37:01] [INFO] === Starting filtering ===
+[2025-05-07 01:37:01] [INFO] Include subjects: биология, химия
+[2025-05-07 01:37:01] [INFO] Exclude subjects: физика
+[2025-05-07 01:37:01] [INFO] Current data contents:
+[2025-05-07 01:37:01] [INFO] Subject: биология,, Students: 1
+[2025-05-07 01:37:01] [INFO] Subject: химия, Students: 2
+[2025-05-07 01:37:01] [INFO] Subject: биология, Students: 1
+[2025-05-07 01:37:01] [INFO] Subject: физика, Students: 1
+[2025-05-07 01:37:01] [INFO] Processing include subjects...
+[2025-05-07 01:37:01] [INFO] Initial set from биология: 1 students
+[2025-05-07 01:37:01] [INFO] Processing subject: химия
+[2025-05-07 01:37:01] [INFO] Intersection with химия: 0 students left
+[2025-05-07 01:37:01] [INFO] Processing exclude subjects...
+[2025-05-07 01:37:01] [INFO] Excluding subject: физика
+[2025-05-07 01:37:01] [INFO] After excluding физика: 0 students left
+[2025-05-07 01:37:01] [INFO] === Filtering complete ===
+[2025-05-07 01:37:01] [INFO] Final result count: 0
+[2025-05-07 01:37:01] [INFO] FilterStudents returned 0 students
+[2025-05-07 01:37:01] [INFO] Displaying results in list box...
+[2025-05-07 01:37:01] [INFO] No students found matching criteria
+[2025-05-07 01:37:01] [INFO] Saving results to: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\FilteredStudents.txt
+[2025-05-07 01:37:01] [INFO] Filter operation complete. Найдено студентов: 0
+[2025-05-07 01:43:33] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:43:33] [INFO] Added: Иванов - биология
+[2025-05-07 01:43:33] [INFO] Added: Петров - химия
+[2025-05-07 01:43:33] [INFO] Added: Сидоров - биология
+[2025-05-07 01:43:33] [INFO] Added: Кузнецов - химия
+[2025-05-07 01:43:33] [INFO] Added: Смирнов - физика
+[2025-05-07 01:43:33] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 01:43:34] [INFO] === Starting filter operation ===
+[2025-05-07 01:43:34] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:43:34] [INFO] Added: Иванов - биология
+[2025-05-07 01:43:34] [INFO] Added: Петров - химия
+[2025-05-07 01:43:34] [INFO] Added: Сидоров - биология
+[2025-05-07 01:43:34] [INFO] Added: Кузнецов - химия
+[2025-05-07 01:43:34] [INFO] Added: Смирнов - физика
+[2025-05-07 01:43:34] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 01:43:34] [INFO] === Starting filtering ===
+[2025-05-07 01:43:34] [INFO] === Filtering complete ===
+[2025-05-07 01:43:34] [INFO] Final result count: 4
+[2025-05-07 01:43:34] [INFO] Filter returned 4 students
+[2025-05-07 01:43:56] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:43:56] [INFO] Added: Иванов - биология
+[2025-05-07 01:43:56] [INFO] Added: Петров - химия
+[2025-05-07 01:43:56] [INFO] Added: Сидоров - биология
+[2025-05-07 01:43:56] [INFO] Added: Кузнецов - химия
+[2025-05-07 01:43:56] [INFO] Added: Смирнов - физика
+[2025-05-07 01:43:56] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 01:44:00] [INFO] === Starting filter operation ===
+[2025-05-07 01:44:00] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:44:00] [INFO] Added: Иванов - биология
+[2025-05-07 01:44:00] [INFO] Added: Петров - химия
+[2025-05-07 01:44:00] [INFO] Added: Сидоров - биология
+[2025-05-07 01:44:00] [INFO] Added: Кузнецов - химия
+[2025-05-07 01:44:00] [INFO] Added: Смирнов - физика
+[2025-05-07 01:44:00] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 01:44:00] [INFO] === Starting filtering ===
+[2025-05-07 01:44:00] [INFO] === Filtering complete ===
+[2025-05-07 01:44:00] [INFO] Final result count: 4
+[2025-05-07 01:44:00] [INFO] Filter returned 4 students
+[2025-05-07 01:44:09] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:44:09] [INFO] Added: Иванов - биология
+[2025-05-07 01:44:09] [INFO] Added: Петров - химия
+[2025-05-07 01:44:09] [INFO] Added: Сидоров - биология
+[2025-05-07 01:44:09] [INFO] Added: Кузнецов - химия
+[2025-05-07 01:44:09] [INFO] Added: Смирнов - физика
+[2025-05-07 01:44:09] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 01:44:39] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:44:39] [INFO] Added: Иванов - биология
+[2025-05-07 01:44:39] [INFO] Added: Петров - химия
+[2025-05-07 01:44:39] [INFO] Added: Сидоров - биология
+[2025-05-07 01:44:39] [INFO] Added: Кузнецов - химия
+[2025-05-07 01:44:39] [INFO] Added: Смирнов - физика
+[2025-05-07 01:44:39] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 01:44:40] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:44:40] [INFO] Added: Иванов - биология
+[2025-05-07 01:44:40] [INFO] Added: Петров - химия
+[2025-05-07 01:44:40] [INFO] Added: Сидоров - биология
+[2025-05-07 01:44:40] [INFO] Added: Кузнецов - химия
+[2025-05-07 01:44:40] [INFO] Added: Смирнов - физика
+[2025-05-07 01:44:40] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 01:44:41] [INFO] === Starting filter operation ===
+[2025-05-07 01:44:41] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:44:41] [INFO] Added: Иванов - биология
+[2025-05-07 01:44:41] [INFO] Added: Петров - химия
+[2025-05-07 01:44:41] [INFO] Added: Сидоров - биология
+[2025-05-07 01:44:41] [INFO] Added: Кузнецов - химия
+[2025-05-07 01:44:41] [INFO] Added: Смирнов - физика
+[2025-05-07 01:44:41] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 01:44:41] [INFO] === Starting filtering ===
+[2025-05-07 01:44:41] [INFO] === Filtering complete ===
+[2025-05-07 01:44:41] [INFO] Final result count: 4
+[2025-05-07 01:44:41] [INFO] Filter returned 4 students
+[2025-05-07 01:48:25] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:48:26] [INFO] === Starting filter operation ===
+[2025-05-07 01:48:26] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:48:26] [INFO] === Starting filtering ===
+[2025-05-07 01:48:26] [INFO] === Filtering complete ===
+[2025-05-07 01:48:26] [INFO] Final result count: 4
+[2025-05-07 01:48:26] [INFO] Filter returned 4 students
+[2025-05-07 01:48:59] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:48:59] [INFO] Added: Иванов - биология
+[2025-05-07 01:48:59] [INFO] Added: Петров - химия
+[2025-05-07 01:48:59] [INFO] Added: Сидоров - биология
+[2025-05-07 01:48:59] [INFO] Added: Кузнецов - химия
+[2025-05-07 01:48:59] [INFO] Added: Смирнов - физика
+[2025-05-07 01:48:59] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 01:49:00] [INFO] === Starting filter operation ===
+[2025-05-07 01:49:00] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 01:49:00] [INFO] Added: Иванов - биология
+[2025-05-07 01:49:00] [INFO] Added: Петров - химия
+[2025-05-07 01:49:00] [INFO] Added: Сидоров - биология
+[2025-05-07 01:49:00] [INFO] Added: Кузнецов - химия
+[2025-05-07 01:49:00] [INFO] Added: Смирнов - физика
+[2025-05-07 01:49:00] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 01:49:00] [INFO] === Starting filtering ===
+[2025-05-07 01:49:00] [INFO] === Filtering complete ===
+[2025-05-07 01:49:00] [INFO] Final result count: 4
+[2025-05-07 01:49:00] [INFO] Filter returned 4 students
+[2025-05-07 02:00:24] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 02:00:24] [INFO] Added: Иванов - биология
+[2025-05-07 02:00:24] [INFO] Added: Петров - химия
+[2025-05-07 02:00:24] [INFO] Added: Сидоров - биология
+[2025-05-07 02:00:24] [INFO] Added: Кузнецов - химия
+[2025-05-07 02:00:24] [INFO] Added: Смирнов - физика
+[2025-05-07 02:00:24] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 02:00:25] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 02:00:25] [INFO] Added: Иванов - биология
+[2025-05-07 02:00:25] [INFO] Added: Петров - химия
+[2025-05-07 02:00:25] [INFO] Added: Сидоров - биология
+[2025-05-07 02:00:25] [INFO] Added: Кузнецов - химия
+[2025-05-07 02:00:25] [INFO] Added: Смирнов - физика
+[2025-05-07 02:00:25] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 02:00:25] [INFO] === Starting filtering ===
+[2025-05-07 02:00:25] [INFO] === Filtering complete ===
+[2025-05-07 02:00:25] [INFO] Final result count: 4
+[2025-05-07 02:03:30] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 02:03:30] [INFO] Added: Иванов - биология
+[2025-05-07 02:03:30] [INFO] Added: Петров - химия
+[2025-05-07 02:03:30] [INFO] Added: Сидоров - биология
+[2025-05-07 02:03:30] [INFO] Added: Кузнецов - химия
+[2025-05-07 02:03:30] [INFO] Added: Смирнов - физика
+[2025-05-07 02:03:30] [INFO] Added: Пидоров - физика
+[2025-05-07 02:03:30] [INFO] Added: Пидорасиков - литература
+[2025-05-07 02:03:30] [INFO] File loaded successfully. Total subjects: 4
+[2025-05-07 02:03:30] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 02:03:30] [INFO] Added: Иванов - биология
+[2025-05-07 02:03:30] [INFO] Added: Петров - химия
+[2025-05-07 02:03:30] [INFO] Added: Сидоров - биология
+[2025-05-07 02:03:30] [INFO] Added: Кузнецов - химия
+[2025-05-07 02:03:30] [INFO] Added: Смирнов - физика
+[2025-05-07 02:03:30] [INFO] Added: Пидоров - физика
+[2025-05-07 02:03:30] [INFO] Added: Пидорасиков - литература
+[2025-05-07 02:03:30] [INFO] File loaded successfully. Total subjects: 4
+[2025-05-07 02:03:30] [INFO] === Starting filtering ===
+[2025-05-07 02:03:30] [INFO] === Filtering complete ===
+[2025-05-07 02:03:30] [INFO] Final result count: 4
+[2025-05-07 02:04:07] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 02:04:07] [INFO] Added: Иванов - биология
+[2025-05-07 02:04:07] [INFO] Added: Петров - химия
+[2025-05-07 02:04:07] [INFO] Added: Сидоров - биология
+[2025-05-07 02:04:07] [INFO] Added: Кузнецов - химия
+[2025-05-07 02:04:07] [INFO] Added: Смирнов - физика
+[2025-05-07 02:04:07] [INFO] Added: Пидоров - биология
+[2025-05-07 02:04:07] [INFO] Added: Пидорасов - физика
+[2025-05-07 02:04:07] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 02:04:07] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 02:04:07] [INFO] Added: Иванов - биология
+[2025-05-07 02:04:07] [INFO] Added: Петров - химия
+[2025-05-07 02:04:07] [INFO] Added: Сидоров - биология
+[2025-05-07 02:04:07] [INFO] Added: Кузнецов - химия
+[2025-05-07 02:04:07] [INFO] Added: Смирнов - физика
+[2025-05-07 02:04:07] [INFO] Added: Пидоров - биология
+[2025-05-07 02:04:07] [INFO] Added: Пидорасов - физика
+[2025-05-07 02:04:07] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 02:04:07] [INFO] === Starting filtering ===
+[2025-05-07 02:04:07] [INFO] === Filtering complete ===
+[2025-05-07 02:04:07] [INFO] Final result count: 5
+[2025-05-07 02:11:16] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 02:11:16] [INFO] Added: Иванов - биология
+[2025-05-07 02:11:16] [INFO] Added: Петров - химия
+[2025-05-07 02:11:16] [INFO] Added: Сидоров - биология
+[2025-05-07 02:11:16] [INFO] Added: Кузнецов - химия
+[2025-05-07 02:11:16] [INFO] Added: Смирнов - физика
+[2025-05-07 02:11:16] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 02:11:16] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 02:11:16] [INFO] Added: Иванов - биология
+[2025-05-07 02:11:16] [INFO] Added: Петров - химия
+[2025-05-07 02:11:16] [INFO] Added: Сидоров - биология
+[2025-05-07 02:11:16] [INFO] Added: Кузнецов - химия
+[2025-05-07 02:11:16] [INFO] Added: Смирнов - физика
+[2025-05-07 02:11:16] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 02:11:16] [INFO] === Starting filtering ===
+[2025-05-07 02:11:16] [INFO] === Filtering complete ===
+[2025-05-07 02:11:16] [INFO] Final result count: 4
+[2025-05-07 02:21:14] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 02:21:14] [INFO] Added: Иванов - биология
+[2025-05-07 02:21:14] [INFO] Added: Петров - химия
+[2025-05-07 02:21:14] [INFO] Added: Сидоров - биология
+[2025-05-07 02:21:14] [INFO] Added: Кузнецов - химия
+[2025-05-07 02:21:14] [INFO] Added: Смирнов - физика
+[2025-05-07 02:21:14] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 02:21:15] [INFO] Opening file: D:\PROGA\VisualStudio\projects\StudentFilterApp\x64\Debug\Students.txt
+[2025-05-07 02:21:15] [INFO] Added: Иванов - биология
+[2025-05-07 02:21:15] [INFO] Added: Петров - химия
+[2025-05-07 02:21:15] [INFO] Added: Сидоров - биология
+[2025-05-07 02:21:15] [INFO] Added: Кузнецов - химия
+[2025-05-07 02:21:15] [INFO] Added: Смирнов - физика
+[2025-05-07 02:21:15] [INFO] File loaded successfully. Total subjects: 3
+[2025-05-07 02:21:15] [INFO] === Starting filtering ===
+[2025-05-07 02:21:15] [INFO] === Filtering complete ===
+[2025-05-07 02:21:15] [INFO] Final result count: 4
